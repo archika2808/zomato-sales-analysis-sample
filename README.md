@@ -159,6 +159,17 @@ Insight:- Filters problematic orders for escalation & customer service recovery.
 
 Python Visualizations:-
 
+Average Delay Per Decade:
+![Average_delay_per_city](Average_delay_per_decade.png)
+
+Average Delay Per Cuisine:
+![Average_delay_per_cuisine](Average_delay_per_cuisine.png)
+
+Orders by Time Slots:
+![Orders_by_time_slots](Orders_by_time_slots.png)
+
+Top 5 Customers by Spending:
+![Top_5_customers_by_spending](Top_5_customers_by_spending.png)
 
 
 

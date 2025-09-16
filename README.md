@@ -5,7 +5,7 @@
 Food delivery platforms like **Zomato** handle **millions of orders daily**.  
 However, **delays in food delivery** are one of the biggest reasons for **customer dissatisfaction and order cancellations**.  
 
-The goal of this project is to:
+The goal of this project is to:-
 - Identify **patterns in delivery delays**
 - Understand **which cuisines, cities, and time slots face the most problems**
 - Suggest **data-driven solutions** to improve efficiency
@@ -31,7 +31,7 @@ The project demonstrates **end-to-end Data Analyst skills**:
 
 
 ##  Dataset:-
-A synthetic dataset of **50 Zomato food delivery orders** with:
+A synthetic dataset of **50 Zomato food delivery orders** with:-
 - `order_id` → unique order number  
 - `customer_name` → customer details  
 - `city` → location of delivery  

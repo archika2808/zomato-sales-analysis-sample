@@ -1,0 +1,18 @@
+"order_id","customer_name","city","cuisine","delivery_time","expected_time","delay"
+7,"Rohit Yadav","Kolkata","Mughlai",65,50,15
+11,"Varun Malhotra","Hyderabad","Biryani",60,45,15
+13,"Nikhil Jain","Kolkata","Mughlai",62,50,12
+19,"Abhishek Rao","Kolkata","Chinese",51,40,11
+22,"Kavya Agarwal","Bangalore","Mughlai",64,50,14
+23,"Siddharth Menon","Hyderabad","Chinese",53,40,13
+25,"Aditya Khanna","Kolkata","North Indian",57,45,12
+30,"Vivek Jain","Pune","Chinese",52,40,12
+31,"Rachna Gupta","Kolkata","North Indian",61,45,16
+32,"Ankit Verma","Delhi","Mughlai",63,50,13
+33,"Ayesha Khan","Mumbai","Biryani",56,45,11
+38,"Rohini Nair","Delhi","Biryani",57,45,12
+40,"Ira Mehta","Bangalore","Mughlai",65,50,15
+45,"Kabir Anand","Mumbai","Mughlai",62,50,12
+46,"Lavanya Joshi","Bangalore","Biryani",58,45,13
+48,"Sakshi Malhotra","Pune","Chinese",51,40,11
+49,"Arpit Singh","Kolkata","North Indian",60,45,15

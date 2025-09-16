@@ -159,8 +159,8 @@ Insight:- Filters problematic orders for escalation & customer service recovery.
 
 Python Visualizations:-
 
-Average Delay Per Decade:
-![Average delay per city](Average_delay_per_decade.png)
+Average Delay Per City:
+![Average delay per city](Average_delay_per_city.png)
 
 Average Delay Per Cuisine:
 ![Average delay per cuisine](Average_delay_per_cuisine.png)
